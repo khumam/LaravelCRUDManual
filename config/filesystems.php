@@ -56,6 +56,10 @@ return [
             'throw' => false,
         ],
 
+        'hosting' => [
+            'driver' => 'local'
+        ]
+
     ],
 
     /*
